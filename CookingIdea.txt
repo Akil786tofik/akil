@@ -5,3 +5,4 @@ Cooking Information
 Samosa
 Idli
 Boil Egg
+Pasta
