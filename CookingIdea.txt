@@ -6,3 +6,7 @@ Samosa
 Idli
 Boil Egg
 Pasta
+
+Non Veg
+Chicken
+Fish
